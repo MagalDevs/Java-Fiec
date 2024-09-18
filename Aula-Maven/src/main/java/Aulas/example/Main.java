@@ -1,6 +1,6 @@
-package org.example;
+package Aulas.example;
 
-import org.example.Classes.Aluno;
+import Aulas.example.Classes.Aluno;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
