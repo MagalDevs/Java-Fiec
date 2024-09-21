@@ -1,4 +1,4 @@
-package Aulas.example.Classes;
+package Aulas.example.AulaLombok.Classes;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
